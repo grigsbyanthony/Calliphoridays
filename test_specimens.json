@@ -1,0 +1,34 @@
+{
+  "specimens": [
+    {
+      "specimen_id": "SPEC001",
+      "species": "lucilia_sericata",
+      "stage": "3rd_instar",
+      "length_mm": 16.5,
+      "collection_location": "torso",
+      "collection_method": "manual collection",
+      "preservation_method": "70% ethanol",
+      "notes": "Found in largest mass on ventral thorax"
+    },
+    {
+      "specimen_id": "SPEC002",
+      "species": "calliphora_vicina",
+      "stage": "2nd_instar",
+      "length_mm": 12.0,
+      "collection_location": "head",
+      "collection_method": "manual collection",
+      "preservation_method": "70% ethanol",
+      "notes": "Smaller population near natural orifices"
+    },
+    {
+      "specimen_id": "SPEC003",
+      "species": "lucilia_sericata",
+      "stage": "pupa",
+      "length_mm": 10.0,
+      "collection_location": "soil_beneath_body",
+      "collection_method": "soil sifting",
+      "preservation_method": "dry preservation",
+      "notes": "Found 5cm beneath body in soil"
+    }
+  ]
+}

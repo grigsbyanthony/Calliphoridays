@@ -1,0 +1,8 @@
+.DS_Store
+CLAUDE.md
+phoenix_case.csv
+PMI_case_CASE001.json
+PMI_case_WINTER001.txt
+multi_specimen_results.json
+/calliphoridays.egg-info
+/calliphoridays/__pycache__
