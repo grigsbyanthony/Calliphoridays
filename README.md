@@ -1,16 +1,19 @@
-# Calliphoridays
+<p align="center">
+  <img src="logo/float-logo.gif" alt="Calliphoridays Logo" width="900"/>
+</p>
+
 
 A comprehensive forensic entomology CLI tool for estimating postmortem intervals (PMI) using blow fly evidence and multiple calculation methods.
 
 ## Overview
 
-Calliphoridays is a professional-grade forensic entomology tool that uses entomological evidence from multiple forensically important families - primarily Calliphoridae (blow flies) and Sarcophagidae (flesh flies) - to estimate the postmortem interval of a cadaver. The tool implements multiple PMI calculation methods, provides comprehensive validation, supports multi-specimen analysis, and includes data export capabilities for forensic documentation.
+Calliphoridays is a relative professional forensic entomology tool that uses entomological evidence from multiple forensically important families - primarily Calliphoridae (blow flies) and Sarcophagidae (flesh flies) - to estimate the postmortem interval of a cadaver. The tool implements multiple PMI calculation methods, provides comprehensive validation, supports multi-specimen analysis, and includes data export capabilities for forensic documentation.
 
 ## Features
 
 ### Core Capabilities
-- **13 Forensic Species**: 9 Calliphoridae (blow flies) + 4 Sarcophagidae (flesh flies)
-- **4 Development Stages**: Complete larval development (1st, 2nd, 3rd instar) and pupal stage
+- **13 Forensically-relevant Species**: 9 Calliphoridae (blow flies) + 4 Sarcophagidae (flesh flies)
+- **4 Developmental Stages**: Complete larval development (1st, 2nd, 3rd instar) and pupal stage
 - **Multiple PMI Methods**: 7 different calculation approaches with consensus building
 - **Temperature Integration**: Automatic weather data fetching with time-of-day adjustments
 - **Multi-Specimen Analysis**: Statistical analysis of multiple specimens with conflict detection
@@ -26,7 +29,6 @@ Calliphoridays is a professional-grade forensic entomology tool that uses entomo
 - **Professional Export**: JSON, CSV, TXT, and PDF formats with case documentation
 - **Court-Ready Reports**: Professional PDF reports with detailed methodology and analysis
 - **Terminal Visualization**: ASCII charts for PMI estimates, method comparison, and temperature timelines
-- **ASCII Banner**: Compact professional tool branding with elegant line-art design (suppressible with `--no-banner`)
 - **Graphical Interface**: Optional GUI for user-friendly interaction and accessibility
 
 ## Installation
