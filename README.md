@@ -2,7 +2,6 @@
   <img src="logo/float-logo.gif" alt="Calliphoridays Logo" width="900"/>
 </p>
 
-
 A comprehensive forensic entomology CLI tool for estimating postmortem intervals (PMI) using blow fly evidence and multiple calculation methods.
 
 ## Overview
@@ -10,6 +9,9 @@ A comprehensive forensic entomology CLI tool for estimating postmortem intervals
 Calliphoridays is a relative professional forensic entomology tool that uses entomological evidence from multiple forensically important families - primarily Calliphoridae (blow flies) and Sarcophagidae (flesh flies) - to estimate the postmortem interval of a cadaver. The tool implements multiple PMI calculation methods, provides comprehensive validation, supports multi-specimen analysis, and includes data export capabilities for forensic documentation.
 
 ## Features
+<p align="center">
+  <img src="logo/python_float.gif" alt="Python Logo" width="100"/>
+</p>
 
 ### Core Capabilities
 - **13 Forensically-relevant Species**: 9 Calliphoridae (blow flies) + 4 Sarcophagidae (flesh flies)
@@ -166,7 +168,7 @@ calliphoridays single \
 # • Date/Time: Precise discovery timing for temperature accuracy
 # • Specimen: Measured length for development refinement
 # • Temperature: Manual override for known conditions
-# • Case Info: Professional case tracking and attribution
+# • Case Info: Case tracking and attribution
 # • Methods: Multiple PMI calculation approaches with specific selection
 # • Validation: All validation levels from basic to enhanced
 # • Analysis: Monte Carlo simulation and literature validation
@@ -368,7 +370,6 @@ The GUI provides an intuitive, user-friendly interface for forensic investigator
 
 ### Font Customization
 The GUI automatically detects and loads custom fonts from the `font/` directory:
-- **Blackbit.otf**: Professional monospace font for enhanced readability
 - **Automatic Fallback**: If custom fonts are unavailable, the GUI uses system fonts
 - **Cross-Platform**: Font loading works on Windows, macOS, and Linux
 - **No Configuration Required**: Fonts are loaded automatically when the GUI starts
@@ -551,7 +552,7 @@ Compact professional tool identification with elegant "CALLIPHORIDAYS" line-art 
 
 ## Important Disclaimers
 
-### Professional Use Only
+### For formal use by professionals only--otherwise, interpret with a grain of salt
 - **Expert Interpretation Required**: Results must be interpreted by qualified forensic entomologists
 - **Estimation Tool**: Provides scientific estimates, not definitive legal conclusions
 - **Court Testimony**: Should be presented as expert evidence with appropriate qualifications
@@ -769,9 +770,8 @@ All species data have been validated within their reported optimal temperature r
 
 **Note**: Development thresholds and base temperatures used in this tool represent synthesis of multiple published studies. Users should consult original research for complete methodological details and validation data. The tool implements established forensic entomology protocols but should not replace expert interpretation and analysis.
 
-## Version History
-
-- **v0.1.0**: Initial release with basic ADD calculations
-- **Current**: Multi-method analysis, validation system, multi-specimen support, comprehensive export capabilities
-
 For detailed documentation of calculation methods and validation studies, see the scientific references above.
+
+<p align="center">
+  <img src="logo/fly_float.gif" alt="ANSI fly explosion" width="300"/>
+</p>
