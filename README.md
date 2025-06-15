@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo/float-logo.gif" alt="Calliphoridays Logo" width="900"/>
+  <img src="logo/calliphoridays_logo_fixed.gif" alt="Calliphoridays Logo" width="900"/>
 </p>
 
 A comprehensive forensic entomology CLI tool for estimating postmortem intervals (PMI) using blow fly evidence and multiple calculation methods.
