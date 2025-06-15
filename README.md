@@ -2,11 +2,11 @@
   <img src="logo/calliphoridays_logo_fixed.gif" alt="Calliphoridays Logo" width="900"/>
 </p>
 
-A comprehensive forensic entomology CLI tool for estimating postmortem intervals (PMI) using blow fly evidence and multiple calculation methods.
+A comprehensive forensic entomology CLI tool for estimating postmortem intervals (PMI) using fly insect evidence and multiple calculation methods.
 
 ## Overview
 
-Calliphoridays is a relative professional forensic entomology tool that uses entomological evidence from multiple forensically important families - primarily Calliphoridae (blow flies) and Sarcophagidae (flesh flies) - to estimate the postmortem interval of a cadaver. The tool implements multiple PMI calculation methods, provides comprehensive validation, supports multi-specimen analysis, and includes data export capabilities for forensic documentation.
+Calliphoridays is a relatively professional forensic entomology tool that uses entomological evidence from multiple forensically important families - primarily Calliphoridae (blow flies) and Sarcophagidae (flesh flies) - to estimate the postmortem interval of a cadaver. The tool implements multiple PMI calculation methods, provides comprehensive validation, supports multi-specimen analysis, and includes data export capabilities for forensic documentation.
 
 ## Features
 <p align="center">
