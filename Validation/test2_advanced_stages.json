@@ -1,0 +1,34 @@
+{
+  "specimens": [
+    {
+      "specimen_id": "TEST2_SPEC001",
+      "species": "chrysomya_rufifacies",
+      "stage": "3rd_instar",
+      "length_mm": 19.8,
+      "collection_location": "torso_ventral",
+      "collection_method": "manual collection",
+      "preservation_method": "70% ethanol",
+      "notes": "Large mature larvae"
+    },
+    {
+      "specimen_id": "TEST2_SPEC002",
+      "species": "chrysomya_rufifacies",
+      "stage": "pupa",
+      "length_mm": 11.2,
+      "collection_location": "soil_beneath",
+      "collection_method": "soil sifting",
+      "preservation_method": "dry preservation",
+      "notes": "Pupae found in soil migration zone"
+    },
+    {
+      "specimen_id": "TEST2_SPEC003",
+      "species": "lucilia_sericata",
+      "stage": "pupa",
+      "length_mm": 9.5,
+      "collection_location": "clothing_folds",
+      "collection_method": "manual collection",
+      "preservation_method": "dry preservation",
+      "notes": "Protected pupation site"
+    }
+  ]
+}

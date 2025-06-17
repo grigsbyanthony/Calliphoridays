@@ -1,0 +1,34 @@
+{
+  "specimens": [
+    {
+      "specimen_id": "TEST3_SPEC001",
+      "species": "calliphora_vicina",
+      "stage": "1st_instar",
+      "length_mm": 6.2,
+      "collection_location": "natural_orifices",
+      "collection_method": "manual collection",
+      "preservation_method": "70% ethanol",
+      "notes": "Early colonization, cold-adapted species"
+    },
+    {
+      "specimen_id": "TEST3_SPEC002",
+      "species": "calliphora_vicina",
+      "stage": "2nd_instar", 
+      "length_mm": 10.8,
+      "collection_location": "facial_region",
+      "collection_method": "manual collection",
+      "preservation_method": "70% ethanol",
+      "notes": "Progressive development from same cohort"
+    },
+    {
+      "specimen_id": "TEST3_SPEC003",
+      "species": "phormia_regina",
+      "stage": "1st_instar",
+      "length_mm": 5.5,
+      "collection_location": "wound_margins",
+      "collection_method": "manual collection",
+      "preservation_method": "70% ethanol",
+      "notes": "Secondary early colonizer"
+    }
+  ]
+}

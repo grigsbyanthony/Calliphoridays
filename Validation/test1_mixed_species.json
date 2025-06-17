@@ -1,0 +1,34 @@
+{
+  "specimens": [
+    {
+      "specimen_id": "TEST1_SPEC001",
+      "species": "lucilia_sericata",
+      "stage": "3rd_instar",
+      "length_mm": 17.2,
+      "collection_location": "torso_mass",
+      "collection_method": "manual collection",
+      "preservation_method": "70% ethanol",
+      "notes": "Largest specimens from primary mass"
+    },
+    {
+      "specimen_id": "TEST1_SPEC002",
+      "species": "lucilia_sericata",
+      "stage": "2nd_instar",
+      "length_mm": 13.5,
+      "collection_location": "torso_mass",
+      "collection_method": "manual collection", 
+      "preservation_method": "70% ethanol",
+      "notes": "Smaller specimens from same mass"
+    },
+    {
+      "specimen_id": "TEST1_SPEC003",
+      "species": "calliphora_vicina",
+      "stage": "1st_instar",
+      "length_mm": 8.0,
+      "collection_location": "head_region",
+      "collection_method": "manual collection",
+      "preservation_method": "70% ethanol",
+      "notes": "Secondary colonization species"
+    }
+  ]
+}

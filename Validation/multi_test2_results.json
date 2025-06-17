@@ -1,0 +1,114 @@
+{
+  "analysis_timestamp": "2025-06-17T11:04:38.335003",
+  "specimen_count": 3,
+  "specimens": [
+    {
+      "specimen_data": {
+        "specimen_id": "TEST2_SPEC001",
+        "species": "chrysomya_rufifacies",
+        "stage": "3rd_instar",
+        "length_mm": 19.8,
+        "collection_location": "torso_ventral",
+        "collection_method": "manual collection",
+        "preservation_method": "70% ethanol",
+        "notes": "Large mature larvae"
+      },
+      "pmi_days": 3.888888888888889,
+      "pmi_hours": 93.33333333333333,
+      "confidence_low": 3.111111111111111,
+      "confidence_high": 4.666666666666667,
+      "quality_score": 97.0,
+      "data_quality": "excellent",
+      "validation_warnings": []
+    },
+    {
+      "specimen_data": {
+        "specimen_id": "TEST2_SPEC002",
+        "species": "chrysomya_rufifacies",
+        "stage": "pupa",
+        "length_mm": 11.2,
+        "collection_location": "soil_beneath",
+        "collection_method": "soil sifting",
+        "preservation_method": "dry preservation",
+        "notes": "Pupae found in soil migration zone"
+      },
+      "pmi_days": 7.638888888888889,
+      "pmi_hours": 183.33333333333334,
+      "confidence_low": 6.111111111111112,
+      "confidence_high": 9.166666666666668,
+      "quality_score": 89.0,
+      "data_quality": "good",
+      "validation_warnings": []
+    },
+    {
+      "specimen_data": {
+        "specimen_id": "TEST2_SPEC003",
+        "species": "lucilia_sericata",
+        "stage": "pupa",
+        "length_mm": 9.5,
+        "collection_location": "clothing_folds",
+        "collection_method": "manual collection",
+        "preservation_method": "dry preservation",
+        "notes": "Protected pupation site"
+      },
+      "pmi_days": 7.7,
+      "pmi_hours": 184.8,
+      "confidence_low": 6.16,
+      "confidence_high": 9.24,
+      "quality_score": 92.0,
+      "data_quality": "excellent",
+      "validation_warnings": []
+    }
+  ],
+  "consensus_pmi": {
+    "method": "quality_weighted_average",
+    "pmi_days": 6.350659472422063,
+    "pmi_hours": 152.4158273381295,
+    "confidence_low": 5.080527577937651,
+    "confidence_high": 7.620791366906476,
+    "basis": "Quality-weighted average of 3 specimens"
+  },
+  "statistical_summary": {
+    "specimen_count": 3,
+    "pmi_mean": 6.40925925925926,
+    "pmi_median": 7.638888888888889,
+    "pmi_std_dev": 2.182918629920952,
+    "pmi_min": 3.888888888888889,
+    "pmi_max": 7.7,
+    "pmi_range": 3.8111111111111113,
+    "quality_mean": 92.66666666666667,
+    "quality_min": 89.0,
+    "quality_max": 97.0,
+    "species_diversity": 2,
+    "stage_diversity": 2,
+    "pmi_cv": 34.05882866678168
+  },
+  "conflict_analysis": {
+    "has_conflicts": true,
+    "conflict_types": [
+      "pmi_range_conflict",
+      "species_disagreement"
+    ],
+    "conflict_details": [
+      {
+        "type": "pmi_range_conflict",
+        "description": "PMI estimates vary by 3.8 days",
+        "severity": "severe"
+      },
+      {
+        "type": "species_disagreement",
+        "description": "Multiple species present: lucilia_sericata, chrysomya_rufifacies",
+        "severity": "moderate"
+      }
+    ],
+    "severity": "severe"
+  },
+  "recommendations": [
+    "Multiple species present - verify species identifications with morphological keys",
+    "Consider separate PMI estimates for each species",
+    "Large PMI range (3.8 days) - prioritize highest quality specimens",
+    "Consider microenvironmental differences within the scene",
+    "High variability in PMI estimates (CV: 34.1%) - exercise caution in interpretation"
+  ],
+  "overall_quality": "good"
+}
